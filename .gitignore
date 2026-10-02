@@ -1,0 +1,14 @@
+# Power BI temporary/cache files
+*.tmp
+*.temp
+*.bak
+
+# Windows files
+Thumbs.db
+Desktop.ini
+
+# Local notes
+notes.txt
+
+# Local PBIX inspection folders
+_pbix_inspection_*/
